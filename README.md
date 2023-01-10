@@ -42,7 +42,7 @@ let y = 20
 let z = x + y
 ```
 
-Don't forget to include the language annotation after the opening triple backtick, which will provide proper syntax highlighting. So this (note the 'javascript'):
+But a much better way is to also include a language annotation after the opening triple backtick, which also provides proper syntax highlighting. So this (note the 'javascript'):
 <pre>
 ```javascript
 let x = 10
@@ -66,7 +66,7 @@ would render as:
 
 `let x = 10`
 
-but, ideally, since this is in-line code you woudl embed it in a sentence like this: `let x = 10`. Notice that in this case the code is always coloured this `orange-y` colour - there is no option to add a specific language annotation as with `javascript` in the code block example above.
+but, ideally, since this is in-line code you would embed it in a sentence like this: `let x = 10`. Notice that in this case the code is always written monospace and highlighted in grey - there is no option to add a specific language annotation as with `javascript` in the code block example above.
 
 Finally, you'll likely want to add links and images to your README.md file at different times. The syntax for each is very similar. For a link provide the link text in square brackets immediately followed by the url in rounded parentheses. So the following:
 <pre>
