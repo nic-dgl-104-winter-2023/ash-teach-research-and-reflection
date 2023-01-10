@@ -84,6 +84,7 @@ For images, use the same syntax with the alt text in the square brackets and the
 </pre>
 
 renders as:
+
 ![A screenshot of some code](assets/Code-1076536.jpg) 
 
 *Image CC0, courtesy of [Wikimedia Commons](https://pixabay.com/en/users/JOSBORNE_-1640589/)*
