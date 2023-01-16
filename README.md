@@ -88,3 +88,17 @@ renders as:
 ![A screenshot of some code](assets/Code-1076536.jpg) 
 
 *Image CC0, courtesy of [Wikimedia Commons](https://pixabay.com/en/users/JOSBORNE_-1640589/)*
+
+# Week 2
+
+## Programming practice article brainstorm
+- Barriers to entry (terminology - front-end, back-end)
+    - Games development, app development, or other
+- Ways to get into the industry
+    - Ways to prepare yourself for entry into the industry (what can you do as a student - portfolio, etc.)
+- Comparative of basic syntax in three different languages
+    - `for`/`while` loop - concepts the same, but presentation is different.
+    - Comparison of algorithm implementations in different languages
+- Comparative of platforms and related concerns
+    - Game engines (Unreal, Unity)
+    - Frameworks/libraries for games or other 
