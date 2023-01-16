@@ -101,4 +101,4 @@ renders as:
     - Comparison of algorithm implementations in different languages
 - Comparative of platforms and related concerns
     - Game engines (Unreal, Unity)
-    - Frameworks/libraries for games or other 
+    - Frameworks/libraries for games or other. 
