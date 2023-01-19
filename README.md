@@ -92,6 +92,25 @@ renders as:
 # Week 2
 
 ## Programming practice article brainstorm
+- Unit testing - what, the how, the why? Different languages, testing frameworks
+- Refactoring and reusability - portability
+    - Decoupling of code
+    - DRY - Don't Repeat Yourself
+- Documentation 
+    - Code commenting - what are the best practices?
+        - Ensure that code is readable
+        - "The code should speak for itself" - variable naming conventions, method or function names, 
+        - Use of whitespace
+    - Project README.md
+    - Official API documentation (there are tools for this)
+- Algorithms and data structures - Binary trees
+    - First-timer knowledge of particular algorithmic approaches
+    - Big-O notation (e.g. `O(1)`, `O(n)`, `O(n^2)`, `O(log n)`)
+    - Discuss specific algorithms
+    - Compare implementations in different languages (CPS 101)
+- What is one thing you wish you knew in a first programming course?
+    - File I/O - comparative in different languages, naming conventions, storage locations,
+    - Git from the command line - Comparing it to GUI tools
 - Barriers to entry (terminology - front-end, back-end)
     - Games development, app development, or other
 - Ways to get into the industry
@@ -102,7 +121,6 @@ renders as:
 - Comparative of platforms and related concerns
     - Game engines (Unreal, Unity)
     - Frameworks/libraries for games or other 
-
 
 ## OOP languages and style guide
 - [Kotlin Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html)
